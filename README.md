@@ -1,0 +1,1 @@
+Привет, API для вывода  книг на FastAPI. Запуск: uvicorn main:app --reload
